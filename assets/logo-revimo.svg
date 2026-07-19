@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 100" role="img" aria-labelledby="title">
+  <title id="title">REVIMO</title>
+  <path fill="#252525" d="M32 14h48c19 0 30 10 30 25 0 12-7 21-21 24l19 23H83L55 52h25c7 0 12-4 12-11 0-6-5-10-12-10H50v55H32z"/>
+  <path fill="#08703e" d="M24 5 5 35h14c1 24 14 45 38 58l26 4C53 82 37 63 36 35h14z"/>
+  <path fill="#ffffff" d="M34 34c4 22 17 39 42 53l7 9C53 84 36 65 29 41z" opacity=".9"/>
+</svg>
